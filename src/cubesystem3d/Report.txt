@@ -1,3 +1,1 @@
 // This an empty sample report !
-
-nova entrada al report
